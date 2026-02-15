@@ -6,9 +6,14 @@
 
 ### 📊 GitHub Stats
 
+
 <div align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marmute360&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marmute360&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marmute360&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marmute360&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=1800" />
+</div>
+
+<div align="left">
+  <img height="170" src="https://streak-stats.demolab.com?user=marmute360&theme=dark&hide_border=true" />
 </div>
 
 <!-- Se quiser porcentagem por tempo (WakaTime), descomenta esse card abaixo depois de configurar -->
